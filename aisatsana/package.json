@@ -1,0 +1,14 @@
+{
+  "name": "aisatsana",
+  "version": "1.0.0",
+  "description": "",
+  "main": "piano.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "markov-chains": "^1.0.2"
+  }
+}
