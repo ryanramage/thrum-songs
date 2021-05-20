@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "markov-chains": "^1.0.2"
+    "markov-chains": "^1.0.2",
+    "random": "^3.0.6"
   }
 }
